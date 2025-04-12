@@ -6,7 +6,7 @@ $text-light: #ffffff;
 $text-dark: #1a1a1a;
 $font: 'Segoe UI', sans-serif;
 
-// 🔄 Animation
+// Animation
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -19,7 +19,7 @@ $font: 'Segoe UI', sans-serif;
     }
 }
 
-// 🎨 Base Styles
+// Base Styles
 body {
     font-family: $font;
     background-color: $light-bg;
@@ -44,7 +44,7 @@ body {
     }
 }
 
-// 🔘 Button Style
+// Button Style
 .btn {
     background-color: $primary-color;
     color: white;
